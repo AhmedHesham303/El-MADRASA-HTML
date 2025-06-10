@@ -1,0 +1,4 @@
+1)<p> Hello World </p>
+# opening tag - content - closing tag
+
+2) self closing tag as <img/>
